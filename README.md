@@ -354,6 +354,3 @@ This project is licensed under the MIT License.
 - [Technical Analysis Guide](https://www.investopedia.com/technical-analysis-4689657)
 - [Cryptocurrency Trading Basics](https://www.investopedia.com/cryptocurrency-4427699)
 
----
-
-Made with ❤️ by the Crypto Forecast CLI team
