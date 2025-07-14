@@ -1,0 +1,1 @@
+{"version":3,"file":"vwap.d.ts","sourceRoot":"","sources":["../../src/indicators/vwap.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAC;AAIxC,wBAAsB,aAAa,CACjC,MAAM,EAAE,MAAM,EAAE,EAChB,KAAK,EAAE,MAAM,EAAE,EACf,IAAI,EAAE,MAAM,EAAE,EACd,OAAO,EAAE,MAAM,EAAE,EACjB,YAAY,EAAE,MAAM,GACnB,OAAO,CAAC,aAAa,EAAE,CAAC,CA+F1B"}
